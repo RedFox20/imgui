@@ -1,6 +1,8 @@
 ## OSX artifacts
 .DS_Store
 
+mama.cmake
+
 ## Dear ImGui artifacts
 imgui.ini
 imgui*.ini
